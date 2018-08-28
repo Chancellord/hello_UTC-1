@@ -1,3 +1,5 @@
+print("Hello UTC")
+
 x, y = 27, 5
 
 if x %2 == 0:
